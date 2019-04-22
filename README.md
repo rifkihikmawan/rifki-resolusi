@@ -1,2 +1,2 @@
 # rifki-resolusi
-Repositori untuk resolusi
+Repository untuk resolusi
